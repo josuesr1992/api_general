@@ -6,7 +6,7 @@ const RouterBccr = require('./Routes/BCCRRoute');
 const RouterSuscriptores = require('./Routes/SuscriptoresRoute');
 
 const app = express();
-const port = 4321;
+
 
 // Habilitar CORS
 app.use((req, res, next) => {
@@ -24,6 +24,8 @@ app.use("/api/videojuegos", RouterVideoJuegos);
 app.use("/api/usuarios", RouterUsuarios);
 app.use("/api/bccr", RouterBccr);
 app.use("/api/suscriptores", RouterSuscriptores);
+
+const port = process.env.PORT || 4321;
 
 app.listen(port, () => {
     console.log("Servidor corriendo en el puerto:", port);
