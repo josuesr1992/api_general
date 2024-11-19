@@ -1,0 +1,109 @@
+{
+    "VideoJuegos": [
+      {
+        "id":1,
+        "id_consola": 1,
+        "nombre" : "God of War Ragnarok",
+        "imagen": "god-of-war-ragnarok.jpg",
+        "precio": 170
+      },
+      {
+        "id":2,
+        "id_consola": 1,
+        "nombre" : "Fifa 2025",
+        "imagen": "fifa25.jpg",
+        "precio": 100
+      },
+      {
+        "id":3,
+        "id_consola": 1,
+        "nombre" : "Fornite",
+        "imagen": "fortnite.jpg",
+        "precio": 100
+      },
+      {
+        "id":4,
+        "id_consola": 1,
+        "nombre" : "COD Modern Warfare",
+        "imagen": "call-of-duty-modern-warfare.jpg",
+        "precio": 100
+      },
+      {
+        "id":5,
+        "id_consola": 1,
+        "nombre" : "The Last of Us part II",
+        "imagen": "thelastofus2.jpg",
+        "precio": 100
+      },
+      {
+        "id":6,
+        "id_consola": 2,
+        "nombre" : "Halo Infinite",
+        "imagen": "halo-infinite.jpg",
+        "precio": 100
+      },
+      {
+        "id":7,
+        "id_consola": 2,
+        "nombre" : "Forza Horizon 5",
+        "imagen": "forza-horizon-5.jpg",
+        "precio": 100
+      },
+      {
+        "id":8,
+        "id_consola": 2,
+        "nombre" : "The Witcher Wild Hunt",
+        "imagen": "the-witcher-3.jpg",
+        "precio": 100
+      },
+      {
+        "id":9,
+        "id_consola": 2,
+        "nombre" : "GTA V",
+        "imagen": "gtaV.jpg",
+        "precio": 75
+      },
+      {
+        "id":10,
+        "id_consola": 2,
+        "nombre" : "Resident Evil 4",
+        "imagen": "resident-evil-4.jpg",
+        "precio": 100
+      },
+      {
+        "id":11,
+        "id_consola": 3,
+        "nombre" : "Mario Kart 8",
+        "imagen": "mario-kart-8-deluxe.jpg",
+        "precio": 100
+      },
+      {
+        "id":12,
+        "id_consola": 3,
+        "nombre" : "Supersmash Ultimate",
+        "imagen": "super-smash-bros-ultimate.jpg",
+        "precio": 100
+      },
+      {
+        "id":13,
+        "id_consola": 3,
+        "nombre" : "Zelda",
+        "imagen": "zelda.jpg",
+        "precio": 100
+      },
+      {
+        "id":14,
+        "id_consola": 3,
+        "nombre" : "Super Mario Odyssey",
+        "imagen": "super-mario-odyssey.jpg",
+        "precio": 100
+      },
+      {
+        "id":15,
+        "id_consola": 3,
+        "nombre" : "Xenoblade Chronicles",
+        "imagen": "xenoblade-chronicles.jpg",
+        "precio": 50
+      }
+    ]
+  }

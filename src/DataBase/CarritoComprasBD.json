@@ -1,0 +1,9 @@
+{
+    "CarritoCompras": [
+      {
+        "id-compra": 1,
+        "id-juego": 1,
+        "id-usuario" : "admin"      
+      }
+    ]
+  }

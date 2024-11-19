@@ -1,0 +1,52 @@
+{
+  "Suscriptores": [
+    {
+      "correo": "ejemplo@gmail.com",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "telefono": "1234-5678"
+    },
+    {
+      "correo": "aaa@gmail.com",
+      "nombre": "Josue",
+      "apellido": "Sandi Rojas",
+      "telefono": "2222-2222"
+    },
+    {
+      "correo": "as@gmail.com",
+      "nombre": "hi",
+      "apellido": "tes",
+      "telefono": "3333-3333"
+    },
+    {
+      "correo": "home@gmail.com",
+      "nombre": "asda",
+      "apellido": "asasas",
+      "telefono": "1324-3424"
+    },
+    {
+      "correo": "as2@gmail.com",
+      "nombre": "a",
+      "apellido": "Sandi Rojas",
+      "telefono": "2222-2222"
+    },
+    {
+      "correo": "as4@gmail.com",
+      "nombre": "jota",
+      "apellido": "san",
+      "telefono": "3333-3333"
+    },
+    {
+      "correo": "hjo@gmail.com",
+      "nombre": "Joyas",
+      "apellido": "adae",
+      "telefono": "1111-1111"
+    },
+    {
+      "correo": "as333333@gmail.com",
+      "nombre": "Josue",
+      "apellido": "rtyy",
+      "telefono": "2324-4233"
+    }
+  ]
+}

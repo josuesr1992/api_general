@@ -1,0 +1,25 @@
+{
+    "Consolas": [
+      {
+        "id": 1,
+        "nombre": "Play Station 5",
+        "imagen": "PlayStation.png",
+        "precio": 500, 
+        "descripcion" : "Esto es un play 5"        
+      },
+      {
+        "id": 2,
+        "nombre": "Xbox XS",
+        "imagen": "xbox.png",
+        "precio": 500,
+        "descripcion" : "Esto es un xbox serie x"        
+      },
+      {
+        "id": 3,
+        "nombre": "Nintendo Switch",
+        "imagen": "NintendoSwitch.png",
+        "precio": 500,
+        "descripcion" : "Esto es una nintendo switch"        
+      }
+    ]
+  }

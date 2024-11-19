@@ -1,0 +1,22 @@
+{
+    "Usuarios": [
+      {
+        "usuario": "admin",
+        "contrasena": "123",
+        "nombre": "Administrador", 
+        "rol": "0"       
+      },
+      {
+        "usuario": "adolfo21",
+        "contrasena": "123",
+        "nombre": "Adolfo Vargas Sandoval",
+        "rol": "1"       
+      },
+      {
+        "usuario": "josue",
+        "contrasena": "123",
+        "nombre": "Josue Sandi",
+        "rol": "0"       
+      }
+    ]
+  }
