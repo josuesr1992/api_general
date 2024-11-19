@@ -19,11 +19,11 @@ app.use((req, res, next) => {
 app.use(express.json());
 
 // Rutas de la API
-app.use("/api/route", RouterConsolas);
-app.use("/api/route", RouterVideoJuegos);
-app.use("/api/route", RouterUsuarios);
-app.use("/api/route", RouterBccr);
-app.use("/api/route/suscriptores", RouterSuscriptores);
+app.use("/api/consolas", RouterConsolas);
+app.use("/api/videojuegos", RouterVideoJuegos);
+app.use("/api/usuarios", RouterUsuarios);
+app.use("/api/bccr", RouterBccr);
+app.use("/api/suscriptores", RouterSuscriptores);
 
 app.listen(port, () => {
     console.log("Servidor corriendo en el puerto:", port);
